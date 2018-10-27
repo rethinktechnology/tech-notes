@@ -48,13 +48,3 @@ Load balancers have different capabilities, which include:
 -   GSLB — Global Server Load Balancing extends L4 and L7 capabilities to servers in different geographic locations.
 
 More enterprises are seeking to deploy cloud-native applications in data centers and public clouds. This is leading to significant changes in the capability of load balancers. In turn, this creates both challenges and opportunities for infrastructure and operations leaders.
-
-## Harware vs Software Load Balancer
-
-
-|              SOFTWARE PROS                             |             HARDWARE PROS           |
-|----------------------------------------------------|-------------------------------------------|
-|-   Flexibility to adjust for changing needs.|-   Fast throughput due to software running on specialized processors.|
-|-   Ability to scale beyond initial capacity by adding more software instances.|-   Increased security since only the organization can access the servers physically.|
-|-   Lower cost than purchasing and maintaining physical machines. Software can run on any standard device, which tends to be cheaper.|-   Fixed cost once purchased.|
-|-  Allows for load balancing in the cloud, which provides a managed, off-site solution that can draw resources from an elastic network of servers. Cloud computing also allows for the flexibility of hybrid hosted and in-house solutions. The main load balancer could be in-house while the backup is a cloud load balancer.||
