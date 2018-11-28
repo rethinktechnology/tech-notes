@@ -1,11 +1,11 @@
 #### Different types of classloader
-
+```
 Bootstrap ClassLoader (native one, we can't see from java APIs like ClassLoder.getSystemClassLoader())
       |
 Extension ClassLoader (ClassLoader.getSystemClassLoader() returns this as always)
       |
 App/System ClassLoader (YourClass.class.getClassLoader())
-
+```
 
 
 #### Getting jars loaded from application/system classloader
