@@ -9,6 +9,13 @@ orchestration-tools: [kubernetes]
 
 = Technical Notes
 
+== Tech words
+
+- Server Side Events
+- Load balancing
+- Self healing
+- CI/CD Pipelines
+
 == References
 
 - https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4[CAP Theorem Explained]
@@ -23,6 +30,31 @@ orchestration-tools: [kubernetes]
 - https://hyper.sh[hyer.sh container]
 - http://kubernetes.io[kubernetes.io]
 - https://spring.io[spring.io]
+- https://github.com/fabric8io/spring-cloud-kubernetes[Spring Cloud Kubernetes with Fabric8]
+
+=== Microservice patterns and best practies
+
+- Falut tolerence
+  - https://github.com/Netflix/Hystrix[Netflix Hystrix]
+  - http://skife.org/architecture/fault-tolerance/2009/12/31/bulkheads.html[Bulk heading]
+  - http://martinfowler.com/bliki/CircuitBreaker.html[Circuit breaker]
+  - https://github.com/Netflix/Hystrix/wiki/How-To-Use#Fallback[Fallback mechanism]
+
+- https://en.wikipedia.org/wiki/Domain-driven_design[Domain Driven Design]
+- http://martinfowler.com/bliki/CQRS.html[CQRS]
+- http://martinfowler.com/eaaDev/EventSourcing.html[Event Sourcing]
+- https://en.wikipedia.org/wiki/Stream_processing[Event Streaming]
+- https://en.wikipedia.org/wiki/Complex_event_processing[Complex Event Processing]
+
+
+=== Realtime Projects
+
+- http://developers.redhat.com/ticket-monster[J2EE project]
+
+== Articles & Blogs
+
+- http://blog.christianposta.com/posts[Christain - Redhat Cheif Architect]
+- http://blog.christianposta.com/microservices/netflix-oss-or-kubernetes-how-about-both[Netflix OSS vs Kubernets]
 
 == Blog writing materials
 
