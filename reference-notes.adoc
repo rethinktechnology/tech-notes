@@ -18,7 +18,11 @@ orchestration-tools: [kubernetes]
 - http://fabric8.io/guide/index.html[fabric8.io]
 - https://buildpacks.io[buildpacks.io]
 - https://github.com/arun-gupta/kubernetes-java-sample[Kubernetes for Java by arun-gupta]
-
+- https://coreos.com/blog/rocket[rkt container]
+- https://docker.io[docker container]
+- https://hyper.sh[hyer.sh container]
+- http://kubernetes.io[kubernetes.io]
+- https://spring.io[spring.io]
 
 == Blog writing materials
 
