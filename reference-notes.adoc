@@ -11,17 +11,17 @@ orchestration-tools: [kubernetes]
 
 == References
 
-https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4[CAP Theorem Explained]
-https://pivotal.io/platform/pivotal-function-service[Privotal Function Serivce (serverless)]
-https://projectriff.io[riff.io for container deployment]
-https://www.cncf.io[cncf.io]
-http://fabric8.io/guide/index.html[fabric8.io]
-https://buildpacks.io[buildpacks.io]
-https://github.com/arun-gupta/kubernetes-java-sample[Kubernetes for Java by arun-gupta]
+- https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4[CAP Theorem Explained]
+- https://pivotal.io/platform/pivotal-function-service[Privotal Function Serivce (serverless)]
+- https://projectriff.io[riff.io for container deployment]
+- https://www.cncf.io[cncf.io]
+- http://fabric8.io/guide/index.html[fabric8.io]
+- https://buildpacks.io[buildpacks.io]
+- https://github.com/arun-gupta/kubernetes-java-sample[Kubernetes for Java by arun-gupta]
 
 
 == Blog writing materials
 
-https://asciinema.org/docs/how-it-works[Terimal recorder]
-https://asciinema.org/a/ZVrl60qTBb63RUaXdhhRJQHWA[My First recording sample]
-https://pages.github.com[Technical content publishing space]
+- https://asciinema.org/docs/how-it-works[Terimal recorder]
+- https://asciinema.org/a/ZVrl60qTBb63RUaXdhhRJQHWA[My First recording sample]
+- https://pages.github.com[Technical content publishing space]
