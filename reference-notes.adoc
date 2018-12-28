@@ -34,11 +34,11 @@ orchestration-tools: [kubernetes]
 
 === Microservice patterns and best practies
 
-- Falut tolerence
-  - https://github.com/Netflix/Hystrix[Netflix Hystrix]
-  - http://skife.org/architecture/fault-tolerance/2009/12/31/bulkheads.html[Bulk heading]
-  - http://martinfowler.com/bliki/CircuitBreaker.html[Circuit breaker]
-  - https://github.com/Netflix/Hystrix/wiki/How-To-Use#Fallback[Fallback mechanism]
+- Fault tolerance patterns
+  * https://github.com/Netflix/Hystrix[Netflix Hystrix]
+  * http://skife.org/architecture/fault-tolerance/2009/12/31/bulkheads.html[Bulk heading]
+  * http://martinfowler.com/bliki/CircuitBreaker.html[Circuit breaker]
+  * https://github.com/Netflix/Hystrix/wiki/How-To-Use#Fallback[Fallback mechanism]
 
 - https://en.wikipedia.org/wiki/Domain-driven_design[Domain Driven Design]
 - http://martinfowler.com/bliki/CQRS.html[CQRS]
