@@ -30,7 +30,7 @@ orchestration-tools: [kubernetes]
 - https://hyper.sh[hyer.sh container]
 - http://kubernetes.io[kubernetes.io]
 - https://spring.io[spring.io]
-- https://github.com/fabric8io/spring-cloud-kubernetes[Spring Cloud Kubernetes with Fabric8]
+- https://github.com/spring-cloud/spring-cloud-kubernetes[Spring Cloud with Kubernetes native services]
 
 === Microservice patterns and best practies
 
@@ -61,3 +61,11 @@ orchestration-tools: [kubernetes]
 - https://asciinema.org/docs/how-it-works[Terimal recorder]
 - https://asciinema.org/a/ZVrl60qTBb63RUaXdhhRJQHWA[My First recording sample]
 - https://pages.github.com[Technical content publishing space]
+
+== Mac Keyboard shortcuts
+
+- Full Screen Zoom Mode
+ * Toggle zoom `Cmd Opt 8`
+ * Zoom in `Cmd Opt -`
+ * Zoom out `Cmd Opt =`
+ * Temporary zoom `Ctrl Opt`
