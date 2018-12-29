@@ -9,12 +9,43 @@ orchestration-tools: [kubernetes]
 
 = Technical Notes
 
-== Tech words
+== Technical terms
 
-- Server Side Events
-- Load balancing
-- Self healing
-- CI/CD Pipelines
+|===
+
+|CI/CD Pipelines|Uber Jar|Fat Jar
+
+|blue green deployment|canary run/release|A/B testing
+
+|Server Side Events|Load balancing|Self healing
+
+|Bulkheading|Promise theory|
+
+|===
+
+== Technology and Frameworks
+
+|===
+
+|Spring boot|Dropwizard|WildFly Swarm
+
+|VirtualBox|Vagrant|Container Development Kit
+
+|Docker CLI|Rocket|Hyper.sh
+
+|Vert.x|Lagom|Spring Initializer Web Interface
+
+|Kubernetes|Docker Swarm|OpenShift CLI
+
+|Eclipse|IntelliJ IDEA|NetBeans
+
+|JPA persistence|JTA transactions|Tomcat/Jetty/Undertow servlet engine
+
+|NoSQL databases like MongoDB, Cassandra, and Couchbase|Redis caching|JBoss Forge CLI
+
+
+
+|===
 
 == References
 
@@ -58,6 +89,7 @@ orchestration-tools: [kubernetes]
 
 == Blog writing materials
 
+- https://github.com/asciidoctor/asciidoctor.org[AsciiDoc Syntax]
 - https://asciinema.org/docs/how-it-works[Terimal recorder]
 - https://asciinema.org/a/ZVrl60qTBb63RUaXdhhRJQHWA[My First recording sample]
 - https://pages.github.com[Technical content publishing space]
@@ -73,3 +105,10 @@ orchestration-tools: [kubernetes]
 
 - Dictionary definition `Cmd Ctrl d`
 - Text to speach `Opt Esc`
+
+== TO DO
+
+- DDD thinking and real time example - how to implement in project
+- CI/CD full flow with real time project explained
+- Effective way of using Kubernetes
+- Design - Cohesive vs Decoupled
