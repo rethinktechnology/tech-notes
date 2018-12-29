@@ -64,8 +64,12 @@ orchestration-tools: [kubernetes]
 
 == Mac Keyboard shortcuts
 
-- Full Screen Zoom Mode
+- Mac Screen Zoom
  * Toggle zoom `Cmd Opt 8`
  * Zoom in `Cmd Opt -`
  * Zoom out `Cmd Opt =`
+- Full Screen/Picture-in-Picture Zoom Mode
  * Temporary zoom `Ctrl Opt`
+
+- Dictionary definition `Cmd Ctrl d`
+- Text to speach `Opt Esc`
