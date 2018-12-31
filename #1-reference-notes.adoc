@@ -84,6 +84,9 @@ orchestration-tools: [kubernetes]
 === Frameworks
 
 - http://hibernate.org/validator[Hibernate Validation Framework]
+- http://hamcrest.org/JavaHamcrest[Hamcrest Unit Test Framework]
+- https://junit.org/junit5[Junit Test Framework]
+- https://martinfowler.com/bliki/PageObject.html[Acceptance tests - PageObject pattern]
 
 === Realtime Projects
 
