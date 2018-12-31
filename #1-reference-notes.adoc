@@ -76,7 +76,10 @@ orchestration-tools: [kubernetes]
 - http://martinfowler.com/eaaDev/EventSourcing.html[Event Sourcing]
 - https://en.wikipedia.org/wiki/Stream_processing[Event Streaming]
 - https://en.wikipedia.org/wiki/Complex_event_processing[Complex Event Processing]
-- http://martinfowler.com/bliki/FeatureToggle.html[CI/CD pipeline - Feature Toggle Pattern]
+
+=== CI/CD pipeline
+
+- http://martinfowler.com/bliki/FeatureToggle.html[Feature Toggle Pattern]
 
 === Realtime Projects
 
