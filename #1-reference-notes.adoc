@@ -43,8 +43,6 @@ orchestration-tools: [kubernetes]
 
 |NoSQL databases like MongoDB, Cassandra, and Couchbase|Redis caching|JBoss Forge CLI
 
-
-
 |===
 
 == References
@@ -77,15 +75,25 @@ orchestration-tools: [kubernetes]
 - https://en.wikipedia.org/wiki/Stream_processing[Event Streaming]
 - https://en.wikipedia.org/wiki/Complex_event_processing[Complex Event Processing]
 
-
 === Realtime Projects
 
 - http://developers.redhat.com/ticket-monster[J2EE project]
+
+== Tools
+
+- https://asm.ow2.io
+
+> ASM is an all purpose Java bytecode manipulation and analysis framework. It can be used to modify existing classes or to dynamically generate classes, directly in binary form. ASM provides some common bytecode transformations and analysis algorithms from which custom complex transformations and code analysis tools can be built. ASM offers similar functionality as other Java bytecode frameworks, but is focused on performance. Because it was designed and implemented to be as small and as fast as possible, it is well suited for use in dynamic systems (but can of course be used in a static way too, e.g. in compilers).
+
+- http://javaparser.org
+  
+> To build a simple and lightweight set of tools to generate, analyze, and process Java code.
 
 == Articles & Blogs
 
 - http://blog.christianposta.com/posts[Christain - Redhat Cheif Architect]
 - http://blog.christianposta.com/microservices/netflix-oss-or-kubernetes-how-about-both[Netflix OSS vs Kubernets]
+- https://beryx.org/blog/2018-11-21-/modular-jars-targeted-at-pre-java-9[How to create modular jars that target a Java release before 9]
 
 == Blog writing materials
 
