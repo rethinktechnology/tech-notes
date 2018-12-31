@@ -96,6 +96,8 @@ orchestration-tools: [kubernetes]
 - http://blog.christianposta.com/posts[Christain - Redhat Cheif Architect]
 - http://blog.christianposta.com/microservices/netflix-oss-or-kubernetes-how-about-both[Netflix OSS vs Kubernets]
 - https://beryx.org/blog/2018-11-21-/modular-jars-targeted-at-pre-java-9[How to create modular jars that target a Java release before 9]
+- https://martinfowler.com/articles/extract-data-rich-service.html[How to extract a data-rich service from a monolith]
+- https://www.thoughtworks.com/insights/blog/well-factored-approach-securing-roi-your-service-investment[The well-factored approach to securing ROI on your service investment: Part 1]
 
 == Blog writing materials
 
