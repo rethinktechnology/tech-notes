@@ -41,7 +41,9 @@ orchestration-tools: [kubernetes]
 
 |JPA persistence|JTA transactions|Tomcat/Jetty/Undertow servlet engine
 
-|NoSQL databases like MongoDB, Cassandra, and Couchbase|Redis caching|JBoss Forge CLI
+|NoSQL vs SQL databases |Redis caching|JBoss Forge CLI
+
+|MongoDB|Cassandra|Couchbase
 
 |===
 
