@@ -77,9 +77,13 @@ orchestration-tools: [kubernetes]
 - https://en.wikipedia.org/wiki/Stream_processing[Event Streaming]
 - https://en.wikipedia.org/wiki/Complex_event_processing[Complex Event Processing]
 
-=== CI/CD pipeline
+=== CI/CD pipeline patterns and best practies
 
 - http://martinfowler.com/bliki/FeatureToggle.html[Feature Toggle Pattern]
+
+=== Frameworks
+
+- http://hibernate.org/validator[Hibernate Validation Framework]
 
 === Realtime Projects
 
