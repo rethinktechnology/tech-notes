@@ -87,7 +87,7 @@ orchestration-tools: [kubernetes]
 
 - http://javaparser.org
   
-> To build a simple and lightweight set of tools to generate, analyze, and process Java code.
+> To build a simple and lightweight set of tools to generate, analyze, and process Java code. Sample project code is found at https://github.com/beryx-gist/badass-jar-example-nqueens[Simple Java Code for N-Queens problem]
 
 == Articles & Blogs
 
