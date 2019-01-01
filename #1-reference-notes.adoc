@@ -87,6 +87,7 @@ orchestration-tools: [kubernetes]
 - http://hamcrest.org/JavaHamcrest[Hamcrest Unit Test Framework]
 - https://junit.org/junit5[Junit Test Framework]
 - https://martinfowler.com/bliki/PageObject.html[Acceptance tests - PageObject pattern]
+- https://thoughts-on-java.org/tutorials[JPA Hibernate tutorials]
 
 === Realtime Projects
 
