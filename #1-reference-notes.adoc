@@ -45,6 +45,12 @@ orchestration-tools: [kubernetes]
 
 |MongoDB|Cassandra|Couchbase
 
+|http://stomp.github.io[STOMP]|https://www.rabbitmq.com[RabbitMQ]|https://lwn.net/Articles/688809/[Pseudo-TTY]
+
+|https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing[CIDR]|https://docs.docker.com/engine/userguide/networking/[Overlay Network]|https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/[Dockerfile best practices]
+
+|https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html[Shell Parameter Expansion]|https://jenkins.io/[Jenkins]|https://github.com/jenkinsci/job-dsl-plugin[Jenkin Job DSL Plugin]
+
 |===
 
 == References
@@ -117,6 +123,10 @@ orchestration-tools: [kubernetes]
 
 > Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL.
 
+- https://jenkins.io[Jenkins CI/CD Pipeline]
+
+> Jenkins is a leading open source CI server written in Java. It provides hundreds of plugins to support building, deploying and automating any project. As Jenkins is a CI server, its main purpose is to run automated tests on every new commit that emerges in the remote repository mainline, but it is actually capable of doing much more than that such as triggering releases generation, deploying to a specific environments, executing database scripts, and so on.
+
 == Articles & Blogs
 
 - http://blog.christianposta.com/posts[Christain - Redhat Cheif Architect]
@@ -124,6 +134,7 @@ orchestration-tools: [kubernetes]
 - https://beryx.org/blog/2018-11-21-/modular-jars-targeted-at-pre-java-9[How to create modular jars that target a Java release before 9]
 - https://martinfowler.com/articles/extract-data-rich-service.html[How to extract a data-rich service from a monolith]
 - https://www.thoughtworks.com/insights/blog/well-factored-approach-securing-roi-your-service-investment[The well-factored approach to securing ROI on your service investment: Part 1]
+- https://www.jorgeacetozi.com/single-post/cassandra-architecture-and-write-path-anatomy[Cassandra Write How works]
 
 == Blog writing materials
 
