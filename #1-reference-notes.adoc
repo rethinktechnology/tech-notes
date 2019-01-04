@@ -21,6 +21,10 @@ orchestration-tools: [kubernetes]
 
 |Bulkheading|Promise theory|Elasticsearch
 
+|https://en.wikipedia.org/wiki/Domain-specific_language[Domain Specific Language]|Declarative Pipeline|Scripted Pipeline
+
+|https://en.wikipedia.org/wiki/Declarative_programming[Declarative Programming]|https://en.wikipedia.org/wiki/Imperative_programming[Imperative Programming]
+
 |===
 
 == Technology and Frameworks
@@ -53,7 +57,9 @@ orchestration-tools: [kubernetes]
 
 |https://plugins.jenkins.io/[plugins.jenkins.io]|https://grafana.com[Grafana - Analytics & Monitoring Open Source Platform]|https://slack.com[Slack - chat and collaboration tool]|https://hubot.github.com[Hubot]
 
-|http://coffeescript.org/[CoffeeScript]|https://nodejs.org/en/[NodeJS]
+|http://coffeescript.org/[CoffeeScript]|https://nodejs.org/en/[NodeJS]|https://hub.docker.com/r/fabric8/hubot-slack/[Fabric8 Hubot-Slack]
+
+|https://jenkins.io/doc/book/pipeline/[Jenkins Pipeline]|http://groovy-lang.org/[Groovy]
 
 |===
 
