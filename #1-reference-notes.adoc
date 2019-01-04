@@ -19,7 +19,7 @@ orchestration-tools: [kubernetes]
 
 |Server Side Events|Load balancing|Self healing
 
-|Bulkheading|Promise theory|
+|Bulkheading|Promise theory|Elasticsearch
 
 |===
 
@@ -50,6 +50,10 @@ orchestration-tools: [kubernetes]
 |https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing[CIDR]|https://docs.docker.com/engine/userguide/networking/[Overlay Network]|https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/[Dockerfile best practices]
 
 |https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html[Shell Parameter Expansion]|https://jenkins.io/[Jenkins]|https://github.com/jenkinsci/job-dsl-plugin[Jenkin Job DSL Plugin]
+
+|https://plugins.jenkins.io/[plugins.jenkins.io]|https://grafana.com[Grafana - Analytics & Monitoring Open Source Platform]|https://slack.com[Slack - chat and collaboration tool]|https://hubot.github.com[Hubot]
+
+|http://coffeescript.org/[CoffeeScript]|https://nodejs.org/en/[NodeJS]
 
 |===
 
