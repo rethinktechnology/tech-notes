@@ -82,10 +82,14 @@ orchestration-tools: [kubernetes]
 - http://martinfowler.com/eaaDev/EventSourcing.html[Event Sourcing]
 - https://en.wikipedia.org/wiki/Stream_processing[Event Streaming]
 - https://en.wikipedia.org/wiki/Complex_event_processing[Complex Event Processing]
+- https://www.thoughtworks.com/insights/blog/bff-soundcloud[Backend For Frontend pattern]
+- https://samnewman.io/patterns/architectural/bff[BFF explained]
+- https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture[DDD Service Architecture]
 
 === CI/CD pipeline patterns and best practies
 
 - http://martinfowler.com/bliki/FeatureToggle.html[Feature Toggle Pattern]
+- https://continuousdelivery.com[continuousdelivery.com]
 
 === Frameworks
 
@@ -98,6 +102,11 @@ orchestration-tools: [kubernetes]
 === Realtime Projects
 
 - http://developers.redhat.com/ticket-monster[J2EE project]
+
+=== Magazines
+
+- https://www.thoughtworks.com/radar[Thouhtworks Radar]
+- https://www.oracle.com/technetwork/java/javamagazine/index.html[Java Magazine]
 
 == Tools
 
@@ -129,7 +138,13 @@ orchestration-tools: [kubernetes]
 
 == Articles & Blogs
 
+=== Bolg List
 - http://blog.christianposta.com/posts[Christain - Redhat Cheif Architect]
+- https://www.jorgeacetozi.com[jorgeacetozi.com]
+- https://www.thoughtworks.com/insights[Thoughtworks blog]
+- https://blogs.oracle.com/java/[Oracle Java blog]
+
+=== Topics
 - http://blog.christianposta.com/microservices/netflix-oss-or-kubernetes-how-about-both[Netflix OSS vs Kubernets]
 - https://beryx.org/blog/2018-11-21-/modular-jars-targeted-at-pre-java-9[How to create modular jars that target a Java release before 9]
 - https://martinfowler.com/articles/extract-data-rich-service.html[How to extract a data-rich service from a monolith]
