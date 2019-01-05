@@ -23,7 +23,7 @@ orchestration-tools: [kubernetes]
 
 |https://en.wikipedia.org/wiki/Domain-specific_language[Domain Specific Language]|Declarative Pipeline|Scripted Pipeline
 
-|https://en.wikipedia.org/wiki/Declarative_programming[Declarative Programming]|https://en.wikipedia.org/wiki/Imperative_programming[Imperative Programming]
+|https://en.wikipedia.org/wiki/Declarative_programming[Declarative Programming]|https://en.wikipedia.org/wiki/Imperative_programming[Imperative Programming]|https://www.freedesktop.org/software/systemd/man/systemd.unit.html[Systemd]
 
 |===
 
@@ -33,13 +33,13 @@ orchestration-tools: [kubernetes]
 
 |Spring boot|Dropwizard|WildFly Swarm
 
-|VirtualBox|Vagrant|Container Development Kit
+|https://www.virtualbox.org/[VirtualBox]|https://www.vagrantup.com/[Vagrant]|Container Development Kit
 
 |Docker CLI|Rocket|Hyper.sh
 
 |Vert.x|Lagom|Spring Initializer Web Interface
 
-|Kubernetes|Docker Swarm|OpenShift CLI
+|https://kubernetes.io/[Kubernetes]|https://github.com/docker/swarm[Docker Swarm]|OpenShift CLI
 
 |Eclipse|IntelliJ IDEA|NetBeans
 
@@ -60,6 +60,8 @@ orchestration-tools: [kubernetes]
 |http://coffeescript.org/[CoffeeScript]|https://nodejs.org/en/[NodeJS]|https://hub.docker.com/r/fabric8/hubot-slack/[Fabric8 Hubot-Slack]
 
 |https://jenkins.io/doc/book/pipeline/[Jenkins Pipeline]|http://groovy-lang.org/[Groovy]
+
+|https://aws.amazon.com/ecs/[AWS Elastic Container Service]|
 
 |===
 
