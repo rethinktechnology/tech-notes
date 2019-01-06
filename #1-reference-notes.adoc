@@ -25,7 +25,7 @@ orchestration-tools: [kubernetes]
 
 |https://en.wikipedia.org/wiki/Declarative_programming[Declarative Programming]|https://en.wikipedia.org/wiki/Imperative_programming[Imperative Programming]|https://www.freedesktop.org/software/systemd/man/systemd.unit.html[Systemd]
 
-|https://en.wikipedia.org/wiki/Master/slave_(technology)[Master Slave Architecture]|
+|https://en.wikipedia.org/wiki/Master/slave_(technology)[Master Slave Architecture]
 
 |===
 
@@ -67,7 +67,9 @@ orchestration-tools: [kubernetes]
 
 |https://kubernetes.io/docs/tasks/administer-cluster/memory-constraint-namespace/[Kubernetes Memory]|https://kubernetes.io/docs/tasks/administer-cluster/cpu-constraint-namespace/[Kubernetes CPU]|https://kubernetes.io/docs/tasks/administer-cluster/quota-pod-namespace/[Kubernetes Pod's Quota]
 
+|https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#srv-records[Kubernetes DNS]|https://kubernetes.io/docs/concepts/storage/persistent-volumes/[Kubernetes Volume]|https://kubernetes.io/docs/tasks/configure-pod-container/configmap/[Kubernetes ConfigMap]
 
+|https://logback.qos.ch/[Logback Logger]
 
 |===
 
