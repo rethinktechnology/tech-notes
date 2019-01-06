@@ -25,6 +25,8 @@ orchestration-tools: [kubernetes]
 
 |https://en.wikipedia.org/wiki/Declarative_programming[Declarative Programming]|https://en.wikipedia.org/wiki/Imperative_programming[Imperative Programming]|https://www.freedesktop.org/software/systemd/man/systemd.unit.html[Systemd]
 
+|https://en.wikipedia.org/wiki/Master/slave_(technology)[Master Slave Architecture]|
+
 |===
 
 == Technology and Frameworks
@@ -35,7 +37,7 @@ orchestration-tools: [kubernetes]
 
 |https://www.virtualbox.org/[VirtualBox]|https://www.vagrantup.com/[Vagrant]|Container Development Kit
 
-|Docker CLI|Rocket|Hyper.sh
+|Docker CLI|https://coreos.com/rkt/[rkt - Rocket]|Hyper.sh
 
 |Vert.x|Lagom|Spring Initializer Web Interface
 
@@ -59,9 +61,13 @@ orchestration-tools: [kubernetes]
 
 |http://coffeescript.org/[CoffeeScript]|https://nodejs.org/en/[NodeJS]|https://hub.docker.com/r/fabric8/hubot-slack/[Fabric8 Hubot-Slack]
 
-|https://jenkins.io/doc/book/pipeline/[Jenkins Pipeline]|http://groovy-lang.org/[Groovy]
+|https://jenkins.io/doc/book/pipeline/[Jenkins Pipeline]|http://groovy-lang.org/[Groovy]|https://aws.amazon.com/ecs/[AWS Elastic Container Service]
 
-|https://aws.amazon.com/ecs/[AWS Elastic Container Service]|
+|https://nginx.org/en/[Nginx Server]|http://yaml.org/[YAML]|http://www.json.org/[JSON]
+
+|https://kubernetes.io/docs/tasks/administer-cluster/memory-constraint-namespace/[Kubernetes Memory]|https://kubernetes.io/docs/tasks/administer-cluster/cpu-constraint-namespace/[Kubernetes CPU]|https://kubernetes.io/docs/tasks/administer-cluster/quota-pod-namespace/[Kubernetes Pod's Quota]
+
+
 
 |===
 
