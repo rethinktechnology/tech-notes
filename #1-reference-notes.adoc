@@ -104,6 +104,16 @@ orchestration-tools: [kubernetes]
 - https://samnewman.io/patterns/architectural/bff[BFF explained]
 - https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture[DDD Service Architecture]
 
+=== Microservice Practicle Implementation Approach
+
+- https://www.nginx.com/blog/introduction-to-microservices/[Introduction to Microservices]
+- https://www.nginx.com/blog/building-microservices-using-an-api-gateway/[Building Microservices: Using an API Gateway]
+- https://www.nginx.com/blog/building-microservices-inter-process-communication/[Building Microservices: Inter-Process Communication in a Microservices Architecture]
+- https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/[Service Discovery in a Microservices Architecture]
+- https://www.nginx.com/blog/event-driven-data-management-microservices/[Event-Driven Data Management for Microservices]
+- https://www.nginx.com/blog/deploying-microservices/https://www.nginx.com/blog/deploying-microservices/[Choosing a Microservices Deployment Strategy]
+- https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/[Refactoring a Monolith into Microservices]
+
 === CI/CD pipeline patterns and best practies
 
 - http://martinfowler.com/bliki/FeatureToggle.html[Feature Toggle Pattern]
@@ -161,6 +171,7 @@ orchestration-tools: [kubernetes]
 - https://www.jorgeacetozi.com[jorgeacetozi.com]
 - https://www.thoughtworks.com/insights[Thoughtworks blog]
 - https://blogs.oracle.com/java/[Oracle Java blog]
+- https://www.nginx.com/people/chris-richardson/[Chris richardson]
 
 === Topics
 - http://blog.christianposta.com/microservices/netflix-oss-or-kubernetes-how-about-both[Netflix OSS vs Kubernets]
