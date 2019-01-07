@@ -27,11 +27,35 @@ orchestration-tools: [kubernetes]
 
 |https://en.wikipedia.org/wiki/Master/slave_(technology)[Master Slave Architecture]|Encryption at rest|Encryption at transit
 
+|https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security[HSTS]|https://en.wikipedia.org/wiki/HTTP/2[HTTP/2]|https://en.wikipedia.org/wiki/HTTPS[HTTPS]
+
+|https://github.com/Netflix/msl[Message Security Layer]|https://en.wikipedia.org/wiki/Transport_Layer_Security[TLS]|https://en.wikipedia.org/wiki/Datagram_Transport_Layer_Security[DTLS]
+
+|https://en.wikipedia.org/wiki/SSL[SSL]|https://www.javacodegeeks.com/2019/01/SFTP[SFTP]|https://en.wikipedia.org/wiki/WebSocket[Web Socket]
+
+|https://en.wikipedia.org/wiki/SMTPS[SMTPS]|https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning[HTTP Public Key Pinning]|https://en.wikipedia.org/wiki/Content_Security_Policy[Content Security Policy]
+
+|https://en.wikipedia.org/wiki/Secure_cookie[Secure Cookie]|https://en.wikipedia.org/wiki/HTTP_cookie#SameSite_cookie[Same Site Cookie]|https://www.w3.org/TR/WebCryptoAPI/[Web Crypto API]
+
+|https://en.wikipedia.org/wiki/Authentication[Authentication]|https://en.wikipedia.org/wiki/Authorization[Authorization]|https://en.wikipedia.org/wiki/Authentication#Single-factor_authentication[Single Factor Auth]
+
+|https://en.wikipedia.org/wiki/Multi-factor_authentication[Multi Factor Auth]|https://en.wikipedia.org/wiki/Role-based_access_control[RBAC]|https://en.wikipedia.org/wiki/Access_control_list[ACL]
+
+|https://www.keycloak.org/[Keycloak Open Source IAM]|https://wso2.com/identity-and-access-management/[WSO2 - IAM]|https://12factor.net/[12factor App]
+
+|https://www.owasp.org/index.php/Main_Page[OWASP]
+
 |===
 
 == Technology and Frameworks
 
 |===
+
+|https://shiro.apache.org/[Apache Shiro]|https://spring.io/projects/spring-security[Spring Secuirty]|https://openid.net/connect/[OpenID Connect]
+
+|https://oauth.net/2/[OAuth 2.0]|https://tools.ietf.org/html/rfc6749[OAuth RFC 6749]|https://tools.ietf.org/html/rfc7519[JWT]
+
+|https://tools.ietf.org/html/rfc6750[OAuth 2.0 bearer token]|https://tools.ietf.org/html/draft-ietf-oauth-security-topics-10[OAuth 2.0 Best Practices]|https://tools.ietf.org/id/draft-ietf-oauth-jwt-bcp-02.html[JWT Best Practices]
 
 |Spring boot|Dropwizard|WildFly Swarm
 
@@ -75,6 +99,8 @@ orchestration-tools: [kubernetes]
 
 == References
 
+- https://www.oracle.com/technetwork/articles/javaee/seccodeguide-139067.html[Secure Coding Guidelines for Java SE]
+- https://docs.oracle.com/javase/8/docs/technotes/guides/security/[Java Security]
 - https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4[CAP Theorem Explained]
 - https://pivotal.io/platform/pivotal-function-service[Privotal Function Serivce (serverless)]
 - https://projectriff.io[riff.io for container deployment]
@@ -88,6 +114,7 @@ orchestration-tools: [kubernetes]
 - http://kubernetes.io[kubernetes.io]
 - https://spring.io[spring.io]
 - https://github.com/spring-cloud/spring-cloud-kubernetes[Spring Cloud with Kubernetes native services]
+- https://www.javacodegeeks.com/2019/01/microservices-for-java-developers-managing-security-and-secrets.html[Java developers: Managing Security and Secrets]
 
 === Microservice patterns and best practies
 
