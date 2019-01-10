@@ -233,6 +233,10 @@ orchestration-tools: [kubernetes]
 - https://asciinema.org/a/ZVrl60qTBb63RUaXdhhRJQHWA[My First recording sample]
 - https://pages.github.com[Technical content publishing space]
 
+== Excerise materials
+
+- http://cs.furman.edu/~chealy/cs025/[Programming Example Q&A]
+
 == Mac Keyboard shortcuts
 
 - Mac Screen Zoom
