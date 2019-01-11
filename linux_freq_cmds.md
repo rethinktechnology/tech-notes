@@ -1,9 +1,9 @@
-## Useful terminal commands
+# Useful terminal commands
 
-# display content of file
+## display content of file
 `cat notes.txt`
 
-# printing portion of file content in terminal
+## printing portion of file content in terminal
 
 `sed -n '4,8p' notes.txt`
 
