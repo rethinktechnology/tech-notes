@@ -10,3 +10,7 @@
 `head -8 notes.txt | tail -5`
 
 `awk {if(NR >=4 && NR <= 8) print $0} notes.txt`
+
+## copy file content to pasteboard (clipboard) in mac
+
+`pbcopy < notes.txt`
