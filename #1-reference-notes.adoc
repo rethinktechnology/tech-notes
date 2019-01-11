@@ -211,7 +211,6 @@ orchestration-tools: [kubernetes]
 > Jenkins is a leading open source CI server written in Java. It provides hundreds of plugins to support building, deploying and automating any project. As Jenkins is a CI server, its main purpose is to run automated tests on every new commit that emerges in the remote repository mainline, but it is actually capable of doing much more than that such as triggering releases generation, deploying to a specific environments, executing database scripts, and so on.
 
 - http://learnvimscriptthehardway.stevelosh.com[Learn VIM Script the Hard way]
-
 - https://jovicailic.org/mastering-vim-quickly/[Mastering Vim Quickly book]
 
 == Articles & Blogs
