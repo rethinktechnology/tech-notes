@@ -109,7 +109,7 @@ orchestration-tools: [kubernetes]
 
 |https://logback.qos.ch/[Logback Logger]|https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/[Kubernetes Encryption at rest]|https://www.guru99.com/test-driven-development.html[TDD Concepts]
 
-|https://www.baeldung.com/java-test-driven-list[TDD Example]||
+|https://www.baeldung.com/java-test-driven-list[TDD Example]|https://jfrog.com/open-source/[jfrog - Artifactory OSS]|
 
 |===
 
