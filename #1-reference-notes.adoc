@@ -136,8 +136,10 @@ orchestration-tools: [kubernetes]
 === Architectural patterns and practices for software development
 
 - https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/[Onion Architecture] by Jeffrey Palermo
-- Hexagonal Architecture by Alistair Cockburn
+- https://dzone.com/articles/hexagonal-architecture-is-powerful[Hexagonal Architecture by Alistair Cockburn]
 - Data, Communication and Interaction by Trygve Reenskaug and James O. Coplien
+- https://dzone.com/articles/layered-architecture-is-good[Layered architecture]
+- https://dzone.com/articles/package-by-feature-is-demanded[Featured architecture]
 
 === Microservice patterns and best practies
 
