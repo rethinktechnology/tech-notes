@@ -133,6 +133,12 @@ orchestration-tools: [kubernetes]
 - https://www.javacodegeeks.com/2019/01/microservices-for-java-developers-managing-security-and-secrets.html[Java developers: Managing Security and Secrets]
 - https://raft.github.io/raft.pdf[Raft paper]
 
+=== Architectural patterns and practices for software development
+
+- https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/[Onion Architecture] by Jeffrey Palermo
+- Hexagonal Architecture by Alistair Cockburn
+- Data, Communication and Interaction by Trygve Reenskaug and James O. Coplien
+
 === Microservice patterns and best practies
 
 - Fault tolerance patterns
